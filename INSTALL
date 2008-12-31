@@ -1,0 +1,13 @@
+Steps to install keysig:
+
+Requirements:
+Keysig requires PHP5+ with GD and MySQL4+
+
+1) Create a MySQL database called keysig
+2) Run the two SQL statements in the keysig.sql file
+3) After the tables have been created successfully remove the keysig.sql file
+4) Create a new user for the keysig database and update your database settings in the /includes/database.php file
+5) The "tmp" directory under the keysig folder much be writeable by the web user.  Chmod it with appropriate
+	permissions so that the libchart graphs can be generated and landed in this location. 
+	
+For additional assistance stop by our support forums - http://forum.brilaps.com/.
