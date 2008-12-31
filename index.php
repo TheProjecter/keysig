@@ -50,12 +50,12 @@ if (isset($_GET['error']) && !empty($_GET['error'])) {
 			<!--Top row 100%-->
 			<div class="yui-g">
 				<p>Keysig is a base framework/example for doing keyboard keystroke pattern capture and unique signature creation/analysis in a cross-browser manner (i.e.) grade "A" browsers.  This<br/>
-				type of functionality could have many real world implementations, but probably the most likely candiate would be a browser based biometric login system of some sort.</p>
+				type of functionality could have many real world implementations, but probably the most likely candidate would be a browser based biometric login system of some sort.</p>
 				<p>This example form demonstrates creation, storage, and analysis of user entered keyboard keystroke patterns. It also demonstrates pattern graphing for simple visual comparison.<br />
 				This example uses the common username/password test.  Unlike traditional username/password tests not only are the username/password values tested, but the keystroke pattern is <br />
 				also examined.</p>
 				<p>Feel free to experiment with any of the existing username/password combinations shown in the table below and/or create your own combinations and try to match them. You should<br />
-				be able to match your own creations within a reasonable standard divation, but not those created by others.  The username is a plain text match, but the password field also compares<br />
+				be able to match your own creations within a reasonable standard deviation, but not those created by others.  The username is a plain text match, but the password field also compares<br />
 				the keystroke pattern.</p>
 				<h2>Explanations:</h2>
 				<ul>
