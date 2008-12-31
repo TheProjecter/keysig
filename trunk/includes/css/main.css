@@ -1,0 +1,115 @@
+#hd {
+	margin: 1% 0 2% 0;
+}
+
+#hd h1 {
+	font-size: 182%;
+	background-image: url(../images/tango-icon-library/sample_logo.png);
+	background-repeat: no-repeat;
+	padding-left: 35px;
+}
+
+h2 {
+	font-size: 165%;
+	padding-bottom: 5px;
+}
+
+#ft {
+	margin-top:2%;
+}
+
+.explanation-title {
+	font-weight: bold;
+}
+
+#existing-users {
+	margin: 20px 0 20px 0;
+}
+
+#existing-users p {
+	margin: 5px 0 5px 0;
+}
+
+#existing-users table {
+	margin-top: 5px;
+}
+
+#existing-users table th {
+	color: white;
+	background-color: black;
+}
+
+#existing-users table td {
+	padding: 3px;
+}
+
+.yui-g p {
+	margin-bottom: 1%;
+}
+
+.yui-g li {
+	list-style-type: circle;
+	list-style-position: inside;
+}
+
+#top-callout {
+	float:right;
+	font-weight:bold;
+	text-align:center;
+	border:1px black solid;
+	padding:2%;
+	margin-top:2%;
+}
+
+#center-callout {
+	text-align:center;
+	font-family:Arial;
+	font-style:italic;
+	font-weight:bold;
+	margin:2%;
+}
+
+#center-callout span {
+	font-size:197%;
+}
+
+.warning {
+	font-size: 125%;
+	color: red;
+}
+
+#submission_error {
+	text-align:center;
+	display: block;
+	border: medium black dashed;
+	font-size: 108%;
+	padding: 1%;
+	margin: 1% 0 1% 0;
+	color: black;
+	background-color: silver;
+	width: 250px;
+}
+
+#noscript {
+	font-size: 116%;
+	color: red;
+	margin-top: 2%;
+}
+
+#chart-container {
+	margin-top: 3%;
+	display: none;
+}
+
+#chart-container h2 {
+	font-size: 182%;
+	font-weight: bold;
+	padding-bottom: 2%;
+	text-decoration: underline;
+}
+
+input[type="text"] {
+	margin-bottom: 5px;
+	padding: 3px;
+	display: block;
+}
